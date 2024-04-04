@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+    min-height: 100vh;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-size: cover;
+    background-position: center;
+    background-color: #317c37;
+    background-image: url('https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.cointribune.com%2Fen%2Fyoutube-could-soon-ban-any-content-generated-by-ai%2F&psig=AOvVaw1Lk8K47FGCMZUo-aaLPEqH&ust=1712122524916000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCNCjsNbnooUDFQAAAAAdAAAAABAE'); 
+    filter: brightness(70%) grayscale(50%);
+  }
