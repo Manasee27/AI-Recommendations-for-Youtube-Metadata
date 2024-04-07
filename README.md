@@ -12,7 +12,7 @@ Run the following commands:
 
 `cd client`
 
-`npm i`
+`npm i` 
 
 `cd ..`
 
