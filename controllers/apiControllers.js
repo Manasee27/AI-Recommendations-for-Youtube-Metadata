@@ -8,8 +8,8 @@ const fs = require('fs')
 const dotenv = require("dotenv");
 
 dotenv.config();
-const API_KEY = 'AIzaSyBtBACifSwZVSIe14U0tPfcbL0Utj33uOc';
-const GPT_KEY = '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';
+const API_KEY = 'API_KEY';
+const GPT_KEY = 'API_KEY';
 const bodyParser = require('body-parser')
 
 
